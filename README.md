@@ -1,5 +1,7 @@
 # sentiment-analysis-paddleNLP-SKEP
 Use Baidu's PaddleNLP for sentiment analysis. 
+The codes are in the sentiment_analysis_SKEP_Hansen.ipynb and utils.py. 
+
 
 本项目使用预训练模型[SKEP](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/paddlenlp/transformers/skep)完成[千言数据集：情感分析](https://aistudio.baidu.com/aistudio/competition/detail/50)比赛  
 包含三种子任务，句子级情感分类、评价对象级情感分类、观点抽取  
