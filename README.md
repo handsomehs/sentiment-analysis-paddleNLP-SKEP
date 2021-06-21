@@ -1,5 +1,5 @@
 # sentiment-analysis-paddleNLP-SKEP
-Use Baidu's PaddleNLP for sentiment analysis. 
+Use Baidu's PaddleNLP for sentiment analysis.  
 The codes are in the sentiment_analysis_SKEP_Hansen.ipynb and utils.py. 
 
 
